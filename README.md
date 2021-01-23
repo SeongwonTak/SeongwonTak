@@ -2,7 +2,8 @@
 
 ## Interest and want to learn
   - Data Science and Analysis
-  > Recommendation System
+    * Recommendation System
+  - Algorithm and Combinatorics
   
   > Social Data Analysis
 ## Career
