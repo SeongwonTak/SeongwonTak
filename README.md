@@ -13,7 +13,7 @@
   - 키출판사 수학편집자 (2018.3~2018.9)
 ## School
   - Seoul National Univ. Mathematics. Integrated PhD program. Dropout (2016.3~2018.2)
-  - ChungAng Univ Mathematics. Mathematics. B.S. (2012.3~2016.2, SUMMA CUM LAUDE)
+  - ChungAng Univ. Mathematics. Mathematics. B.S. (2012.3~2016.2, SUMMA CUM LAUDE)
 <!--
 **SeongwonTak/SeongwonTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
