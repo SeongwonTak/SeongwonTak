@@ -3,9 +3,9 @@
 ## Interest and want to learn
   - Data Science and Analysis
     * Recommendation System
+    * Social Data Analysis
   - Algorithm and Combinatorics
-  
-  > Social Data Analysis
+
 ## Career
   - NOW : Challenging for changing my careertrack
   - KEPCO (2019.7.1~NOW)
