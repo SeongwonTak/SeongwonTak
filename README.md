@@ -17,7 +17,9 @@
   - ChungAng Univ. Mathematics. Mathematics. B.S. (2012.3~2016.2, SUMMA CUM LAUDE)
   
 ## Educations
-  - 데이터다이빙 8기 수강중('21.1.2~'21.2.6)
+  - 데이터다이빙 8기 수료('21.1.2~'21.2.6)
+    - Numpy, Pandas, 데이터 전처리 기법, 기초 분류 및 회귀모델
+     - (Linear Regression, Decision Tree, Random Forest, XGBoost 이론 및 실습)
   - KEPCO D-core 기초반 ('20.5월 초)
   
 ## Certificate
