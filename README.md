@@ -8,7 +8,7 @@
 
 ## Career
   - NOW : Challenging for changing my careertrack
-  - KEPCO (2019.7.1~NOW)
+  - KEPCO (2019.7.1~2021.3.31예정)
   - Korea Employment Agency for Persons with Disabilities as Intern(2018.11~2018.12)
   - 키출판사 수학편집자 (2018.3~2018.9)
   
