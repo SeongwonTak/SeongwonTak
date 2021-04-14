@@ -26,7 +26,8 @@
   - 사회조사분석사 2급 (2019년도 취득)
 
 ## Contact
-taraki3639@gmail.com
+- taraki3639@gmail.com
+- mathlove44@naver.com
 <!--
 **SeongwonTak/SeongwonTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
