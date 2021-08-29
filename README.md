@@ -3,6 +3,7 @@
 ## Interest and want to learn
   - Data Science and Analysis
     * Specially, Recommendation System
+    * Nowdays, I'm studying basic NLPs.
   - Algorithm and Combinatorics
 
 ## Career
