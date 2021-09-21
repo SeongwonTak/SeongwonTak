@@ -1,9 +1,9 @@
 # About me
 
 ## Interest and want to learn
-  - Data Science and Analysis
-    * Specially, Recommendation System
-    * Nowdays, I'm studying basic NLPs.
+  - Interest : Data Science and Analysis.
+    - Specially, Recommender Systems
+  - Want to learn : NLP, Fraud Detections
 
 ## Career
   - Kakao(Data/Stat) as an intern(2021.6.28~2021.8.31)
