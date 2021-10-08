@@ -3,10 +3,11 @@
 ## Interest and want to learn
   - Interest : Data Science and Analysis.
     - Specially, Recommender Systems
-  - Want to learn : NLP, Fraud Detections
+  - Want to learn : Social Data Analysis, Graph-based Models
 
 ## Career
   - Kakao(Data/Stat) as an intern(2021.6.28~2021.8.31)
+    - Project : Data Analysis and forecasting new user for emoticon service
   - KEPCO (2019.7.1~2021.3.31)
   - Korea Employment Agency for Persons with Disabilities as Intern(2018.11~2018.12)
   - 키출판사 수학편집자 (2018.3~2018.9)
